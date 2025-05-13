@@ -5,7 +5,7 @@
 Welcome to **Sushiman**, a sleek and modern sushi landing page built with HTML, CSS, JavaScript, and powered by Vite for lightning-fast development! 🚀
 
 ---
-![Sushiman Landing Page](./assets/sushi-landing.png)
+![Sushiman Landing Page](assets/sushi-landing.png)
 
 
 ## 📖 Table of Contents
