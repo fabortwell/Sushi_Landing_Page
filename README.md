@@ -128,5 +128,3 @@ This project is [MIT Licensed](LICENSE).
 ## 📚 Quote
 
 > **“Hara hachi bun me”** — *Eat until you are 80% full.*
-
-A timeless Japanese proverb reminding us that moderation is the key to both delicious and healthy living.
